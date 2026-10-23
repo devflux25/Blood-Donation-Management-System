@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Blood Donation Management System (BDMS)
 
 A full-stack, enterprise-grade Blood Bank & Healthcare Logistics Web Application built for college DBMS demonstrations and university projects.
@@ -172,3 +173,7 @@ Configurable operational parameters stored in `system_settings`:
 - `expiring_soon_days`: Days ahead to flag inventory in early warning report (default: 7 days).
 - `min_donation_gap_days`: Minimum days required between voluntary whole blood donations (default: 90 days).
 - `whole_blood_shelf_life_days`: Maximum shelf life for whole blood units in cold storage (default: 42 days).
+=======
+# Blood-Donation-Management-System
+Blood Donation Management System using React, FastAPI, and MySQL
+>>>>>>> 1956d9f012ed1b701be7c76ab4125621a0ec9e70
